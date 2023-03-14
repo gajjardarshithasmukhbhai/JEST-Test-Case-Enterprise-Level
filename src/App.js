@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Darshit Gajjar Full Stack Developer
+          MR. Darshit Gajjar Full Stack Developer
         </a>
       </header>
     </div>
